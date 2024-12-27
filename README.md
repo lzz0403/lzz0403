@@ -1,13 +1,11 @@
-##                                                      Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning CTF
 - 🤔 I’m looking for help with w36
 - 😄 Pronouns: Awful exam
 
-<a href="lzz0403">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lzz0403&show_icons=true&theme=Gradient" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzz0403&layout=donut-vertical" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com/?user=lzz0403)
+![](https://stats.justsong.cn/api/leetcode?username=lzz0403&cn=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lzz0403&left_color=green&right_color=red)
+![lzz0403's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lzz0403)
 

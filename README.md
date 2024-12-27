@@ -7,6 +7,4 @@
 <a href="lzz0403 GitHub Streak">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=lzz0403" />
 </a>
-<a href="lzz0403 GitHub Streak">
-  <img height=200 align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lzz0403" />
-</a>
+![](https://github-readme-activity-graph.vercel.app/graph?username=lzz0403)
